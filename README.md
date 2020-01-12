@@ -77,8 +77,8 @@
 Эффективность работы в среднем увеличивается в 25/5=5 раз! На практике это означает, что система помогает существенно экономить пользователю время, которое он отводит на поиск информации. При этом качество обнаружения наиболее выгодного варанта не только не пострадает ,но и значительно возрастет, так как автоматизированная система исключает возможность сбора инфомации только по банкам, входящив в ТОП по рекламе на рынке услуг, уделяет внимание по сбору информации каждого банка и позволяет не просто собрать информацию по курсу, но и опреелить наилучший результат, необходимый пользователю.
 
 
-![Текст](https://github.com/DenisKolgatin/SkladForCurs/blob/master/%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5.png)
+![Текст](https://github.com/LafASay/-Frolov-.github.io/blob/master/111111.png)
 
-![Текст](https://github.com/DenisKolgatin/SkladForCurs/blob/master/KLOK.png)
+![Текст](https://github.com/LafASay/-Frolov-.github.io/blob/master/%D1%82%D1%80%D1%83%D0%B4.png)
 
-![Текст](https://github.com/DenisKolgatin/SkladForCurs/blob/master/%D0%A1oco.png)
+![Текст](https://github.com/LafASay/-Frolov-.github.io/blob/master/cocomo.png)
