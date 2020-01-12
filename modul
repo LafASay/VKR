@@ -1,0 +1,23 @@
+@startuml
+
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Модуль
+class "Внутренний"
+class "Внешний"
+class "Сбор данных"
+class "Вывод данных"
+class "Подготовка данных"
+
+Модули<|-- "Внутренний"
+Модули<|-- "Внешний"
+"Внутренний"<|-- "Сбор данных"
+"Внутренний"<|-- "Вывод данных"
+"Внешний"<|-- "Подготовка данных"
+
+
+hide members
+hide circle
