@@ -54,7 +54,7 @@
 #Декомпозиция блока A33(Формирование отчета): 
 ![Текст](https://github.com/LafASay/-Frolov-.github.io/blob/master/A333.jpg)
 
-Построение ![ERD](https://github.com/DenisKolgatin/SkladForCurs/blob/master/%D0%A0%D0%BE%D0%BB%D0%B8%D0%A2%D0%B5%D0%BA%D1%81%D1%82)  для всех ролей:
+Построение ![ERD](https://github.com/LafASay/-Frolov-.github.io/blob/master/Rol)  для всех ролей:
 
 ![Текст](https://github.com/LafASay/-Frolov-.github.io/blob/master/%D0%A0%D0%BE%D0%BB%D1%8C.png)
 
