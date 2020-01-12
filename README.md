@@ -20,20 +20,18 @@
 Ветка А0:
 ![Текст](https://github.com/LafASay/-Frolov-.github.io/blob/master/A0.jpg)
 
-Ветка А1-А4:
-![Текст](https://github.com/DenisKolgatin/SkladForCurs/blob/master/A1-3.png)
+Ветка А1-А3:
+![Текст](https://github.com/LafASay/-Frolov-.github.io/blob/master/A1.jpg)
 
 Ветка А11-А13:
-![Текст](https://github.com/DenisKolgatin/SkladForCurs/blob/master/%D0%B011.png)
+![Текст](https://github.com/LafASay/-Frolov-.github.io/blob/master/A11.jpg)
 
 Ветка А21-А23:
-![Текст](https://github.com/DenisKolgatin/SkladForCurs/blob/master/%D0%B021-23.png)
+![Текст](https://github.com/LafASay/-Frolov-.github.io/blob/master/A21.jpg)
 
 Ветка А31-А33:
-![Текст](https://github.com/DenisKolgatin/SkladForCurs/blob/master/A3133(2).png)
+![Текст](https://github.com/LafASay/-Frolov-.github.io/blob/master/A31.jpg)
 
-Ветка А41-А43:
-![Текст](https://github.com/DenisKolgatin/SkladForCurs/blob/master/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82.png)
 
 ### Лабораторная работа 5
  DFD диаграммы курсового проекта
