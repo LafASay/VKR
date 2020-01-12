@@ -58,11 +58,11 @@
 
 ![Текст](https://github.com/LafASay/-Frolov-.github.io/blob/master/%D0%A0%D0%BE%D0%BB%D1%8C.png)
 
-Построение ![ERD](https://github.com/DenisKolgatin/SkladForCurs/blob/master/%D0%9F%D0%BE%D1%82%D0%BE%D0%BA%D0%B8%D0%A2%D0%B5%D0%BA%D1%81%D1%82) для всех потоков:
+Построение ![ERD](https://github.com/LafASay/-Frolov-.github.io/blob/master/potoki) для всех потоков:
 
 ![Текст](https://github.com/LafASay/-Frolov-.github.io/blob/master/%D0%BF%D0%BE%D1%82%D0%BE%D0%BA%D0%B8.png)
 
-Построение ![ERD](https://github.com/DenisKolgatin/SkladForCurs/blob/master/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D0%B8) для всех модулей:
+Построение ![ERD](https://github.com/LafASay/-Frolov-.github.io/blob/master/modul) для всех модулей:
 
 ![Текст](https://github.com/LafASay/-Frolov-.github.io/blob/master/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C1.png)
 
