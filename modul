@@ -1,0 +1,29 @@
+@startuml
+
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Потоки
+class Входоной поток
+class Выходной поток
+class Поток управления
+class "Данные о банках"
+class "Запрос пользователя"
+class "Оптимальный курс"
+class "Нормативные документы"
+
+Потоки<|-- Входоной
+Потоки<|-- Выходной
+Потоки<|-- Ууправления
+Входящие<|-- Данные о банках
+Входящие<|-- Запрос пользователя
+Выходящие<|-- Оптимальный курс
+Управляющие<|-- Нормативные документы
+
+
+hide members
+hide circle
+hide methods
+@enduml
