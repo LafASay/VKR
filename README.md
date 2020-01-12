@@ -54,15 +54,15 @@
 #Декомпозиция блока A33(Формирование отчета): 
 ![Текст](https://github.com/LafASay/-Frolov-.github.io/blob/master/A333.jpg)
 
-Построение ![ERD](https://github.com/LafASay/-Frolov-.github.io/blob/master/%D0%A0%D0%BE%D0%BB%D1%8C.png)  для всех ролей:
+Построение ![ERD](https://github.com/DenisKolgatin/SkladForCurs/blob/master/%D0%A0%D0%BE%D0%BB%D0%B8%D0%A2%D0%B5%D0%BA%D1%81%D1%82)  для всех ролей:
 
 ![Текст](https://github.com/DenisKolgatin/SkladForCurs/blob/master/%D0%A0%D0%BE%D0%BB%D0%B8.png)
 
-Построение ![ERD](https://github.com/LafASay/-Frolov-.github.io/blob/master/%D0%BF%D0%BE%D1%82%D0%BE%D0%BA%D0%B8.png) для всех потоков:
+Построение ![ERD](https://github.com/DenisKolgatin/SkladForCurs/blob/master/%D0%9F%D0%BE%D1%82%D0%BE%D0%BA%D0%B8%D0%A2%D0%B5%D0%BA%D1%81%D1%82) для всех потоков:
 
 ![Текст](https://github.com/DenisKolgatin/SkladForCurs/blob/master/%D0%BF%D0%BE%D1%82%D0%BE%D0%BA%D0%B8.png)
 
-Построение ![ERD](https://github.com/LafASay/-Frolov-.github.io/blob/master/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C.png) для всех модулей:
+Построение ![ERD](https://github.com/DenisKolgatin/SkladForCurs/blob/master/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D0%B8) для всех модулей:
 
 ![Текст](https://github.com/DenisKolgatin/SkladForCurs/blob/master/jLNDgjD055xVUOhXxkyRkBZMXt0Tas13aqOcAIvKw8zKeGj513TIKDmAwKziIDhq5SuyYQ_WbqdQnDZQeN0fbEPyFz_CoJdqFWWD4Guyb_tEzYpeEVqNXZ0yRhf64F1NxAPZcBtdmX_qhIU-wml-jEk4DhjvB8J_ignqN510z8LbYsRf3IjTw2lbj9OJoYYfIhVqar8vf8Xs-4Jo0vTlAKTXIz7j.png)
 
