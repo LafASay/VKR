@@ -64,7 +64,7 @@
 
 Построение ![ERD](https://github.com/DenisKolgatin/SkladForCurs/blob/master/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D0%B8) для всех модулей:
 
-![Текст](https://github.com/LafASay/-Frolov-.github.io/blob/master/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C.png)
+![Текст](https://github.com/LafASay/-Frolov-.github.io/blob/master/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C1.png)
 
 ### Рассчет данных
 
