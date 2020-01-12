@@ -45,14 +45,14 @@
 2. Разработка диаграмм в RAMUS
 Декомпозиция всех автоматизируемых блоков в DFD 
 
-#Декомпозиция блока A31(генерация задания): 
-![Текст](https://github.com/DenisKolgatin/SkladForCurs/blob/master/%D0%B031dfd.png)
+#Декомпозиция блока A31(Определение лучших курсов): 
+![Текст](https://github.com/LafASay/-Frolov-.github.io/blob/master/A331.jpg)
 
-#Декомпозиция блока A32(Выполнение задания): 
-![Текст](https://github.com/DenisKolgatin/SkladForCurs/blob/master/%D0%B032dfd.png)
+#Декомпозиция блока A32(Формирование графиков): 
+![Текст](https://github.com/LafASay/-Frolov-.github.io/blob/master/A332.jpg)
 
-#Декомпозиция блока A33(Проверка и интеллектуальный анализ выполнения): 
-![Текст](https://github.com/DenisKolgatin/SkladForCurs/blob/master/%D0%B033dfd.png)
+#Декомпозиция блока A33(Формирование отчета): 
+![Текст](https://github.com/LafASay/-Frolov-.github.io/blob/master/A333.jpg)
 
 Построение ![ERD](https://github.com/DenisKolgatin/SkladForCurs/blob/master/%D0%A0%D0%BE%D0%BB%D0%B8%D0%A2%D0%B5%D0%BA%D1%81%D1%82)  для всех ролей:
 
