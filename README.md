@@ -81,7 +81,7 @@
 
 Рассчет сложности разработки методом FPA/IFUG
 
-![Текст](https://github.com/LafASay/-Frolov-.github.io/blob/master/%D1%82%D1%80%D1%83%D0%B4.png)
+![Текст](https://github.com/LafASay/VKR/blob/master/%D1%82%D1%80%D1%83%D0%B41.png)
 
 Рассчет трудозатрат на разработку методом COCOMO
 
